@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "location": "New York, NY",
+      "salary": "$120,000 - $150,000",
+      "type": "Full-time",
+      "description": "Develop and maintain web applications."
+    },
+    {
+      "id": 2,
+      "title": "Product Manager",
+      "location": "San Francisco, CA",
+      "salary": "$130,000 - $160,000",
+      "type": "Full-time",
+      "description": "Oversee product development from conception to launch."
+    },
+    {
+      "id": 3,
+      "title": "UX Designer",
+      "location": "Remote",
+      "salary": "$90,000 - $120,000",
+      "type": "Contract",
+      "description": "Design user interfaces and improve user experience."
+    },
+    {
+      "id": 4,
+      "title": "Data Scientist",
+      "location": "Boston, MA",
+      "salary": "$110,000 - $140,000",
+      "type": "Full-time",
+      "description": "Analyze and interpret complex data to help companies make decisions."
+    },
+    {
+      "id": 5,
+      "title": "DevOps Engineer",
+      "location": "Seattle, WA",
+      "salary": "$115,000 - $145,000",
+      "type": "Full-time",
+      "description": "Manage and automate infrastructure and deployment processes."
+    }
+  ]
+}
